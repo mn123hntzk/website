@@ -7,7 +7,7 @@ html {
 body{
     font-family: "Yu Gothic Medium","游ゴシック Medium", YuGothic, "游ゴシック体", "ヒラギノ角ゴ Pro W3", sans-serif;
     line-height: 1.7;
-    color: #00a0dc;
+    color: #432;
 }
 a {
     text-decoration: none;
@@ -34,7 +34,7 @@ img {
     margin-left: 36px;
 }
 .main-nav a {
-    color: #432;
+    color: #ff2599;
 }
 .main-nav a:hover {
     color: #0bd;
